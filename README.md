@@ -1,8 +1,5 @@
 # RemoteDesktopMonitor （远程桌面监控工具）
 
-
-# UI
-
 ![](./images/server.png)
 
 ![](./images/client.png)
