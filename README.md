@@ -1,4 +1,4 @@
-# RemoteDesktopMonitor （远程桌面监控工具）
+# RemoteDesktopMonitor （局域网远程桌面监控工具）
 
 ![](./images/server.png)
 
